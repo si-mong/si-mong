@@ -3,8 +3,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em"
-       src="https://streak-stats.demolab.com?user=si-mong&background=C2E9FB&border=81D8D0&stroke=81D8D0&ring=2F9E9E&fire=2F9E9E&currStreakNum=2F4858&sideNums=2F4858&currStreakLabel=2F4858&sideLabels=2F4858&dates=4F7C82" />
-  <img height="180em"
+  <img height="180"
+       src="https://streak-stats.demolab.com?user=si-mong&background=172A3A&border=2F9E9E&stroke=2F9E9E&ring=81D8D0&fire=81D8D0&currStreakNum=C2E9FB&sideNums=C2E9FB&currStreakLabel=A8E6DF&sideLabels=A8E6DF&dates=8EBFC3" />
+  <img height="180"
        src="https://github-readme-stats-beryl-delta-59.vercel.app/api/top-langs/?username=si-mong&layout=compact&bg_color=30,C2E9FB,A8E6DF,81D8D0&title_color=2F4858&text_color=2F4858&hide_border=true" />
 </p>
